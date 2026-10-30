@@ -18,9 +18,15 @@ NowHere 是一家于2026年上线的网络加速服务商，主打海外 BGP 优
 NowHere 主打低价大流量，年付最低18元，每月提供128GB流量，另有32元年付512GB套餐及不限时流量包。全部套餐支持基础与高级节点，最多5台设备同时在线。高级节点支持实验性接入点切换，方便根据运营商网络调整线路，并提供30多个节点，兼顾价格与使用灵活性。
 ## 套餐
 ## 📊 性能实测与分析
-#### 1.晚高峰测速表现
-![image](?raw=ture)</br>
-#### 2.流媒体解锁报告
-![image](?raw=ture)</br>  
+#### 1.1电信晚高峰测速表现
+![image](https://github.com/jdnei/nowhere/blob/main/nowhere/897524375cmct.jpg?raw=ture)</br>
+#### 1.2联通晚高峰测速表现
+![image](https://github.com/jdnei/nowhere/blob/main/nowhere/438752934500cmcu.jpg?raw=ture)</br>
+#### 1.3移动晚高峰测速表现
+![image](https://github.com/jdnei/nowhere/blob/main/nowhere/43259847895cmcc.jpg?raw=ture)</br>
+#### 2.1AI解锁报告
+![image](https://github.com/jdnei/nowhere/blob/main/nowhere/8947258943757ai.jpg?raw=ture)</br>
+#### 2.2流媒体解锁报告
+![image](https://github.com/jdnei/nowhere/blob/main/nowhere/9843725984759test.png?raw=ture)</br>
 #### 3.落地入口分析
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/nowhere/blob/main/nowhere/93842754739057ana.jpg?raw=ture)</br>
