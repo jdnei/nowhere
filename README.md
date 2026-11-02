@@ -1,7 +1,9 @@
+🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
+[Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
 # NowHere机场官方地址(2026年11月1日更新)
 NowHere机场官网地址</br>
-官方地址：[dashboard.nowhere.best](https://dashboard.nowhere.best/#/register?code=WJQtOgAL)</br>
+官方地址：[dashboard.nowhere.best](https://to.iix.im/nw01)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
