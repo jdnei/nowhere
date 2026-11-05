@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальный сайт NowHere VPN (обновлено 3 ноября 2026)
+# Официальный сайт NowHere VPN (обновлено 5 ноября 2026)
 
 Официальный сайт NowHere VPN<br>
 Официальный адрес: [dashboard.nowhere.best](https://to.iix.im/nw01)<br>
