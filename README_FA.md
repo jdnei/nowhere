@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# وب‌سایت رسمی NowHere VPN (به‌روزرسانی 18 نوامبر 2026)
+# وب‌سایت رسمی NowHere VPN (به‌روزرسانی 19 نوامبر 2026)
 وب‌سایت رسمی NowHere VPN<br>
 آدرس رسمی: [dashboard.nowhere.best](https://to.iix.im/nw01)<br>
 
